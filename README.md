@@ -7,9 +7,9 @@ Dataset: ~28,028 records, 35 attributes (27 categorical, 8 continuous), covering
 Outcome: A cleaned dataset, 13 objective-question analyses (each on its own sheet), a pivot-table/chart summary, and an interactive multi-page dashboard with KPI cards and trend visuals
 Files
 File	Description
-AstroSage_analysis_KUNAL.xlsx	Main workbook — cleaned data, pivot tables, per-question analysis sheets, and dashboard
-Astrosage_analysis_KUNAL.docx	Written answers to all objective questions with methodology and observations
-AstroSage_KUNAL_PRAJAPATI.pptx	Presentation summarizing findings, insights, and recommendations
+AstroSage_analysis_ROHIT.xlsx	Main workbook — cleaned data, pivot tables, per-question analysis sheets, and dashboard
+Astrosage_analysis_ROHIT.docx	Written answers to all objective questions with methodology and observations
+AstroSage_ROHIT.pptx	Presentation summarizing findings, insights, and recommendations
 Data Cleaning
 Inspected all 35 columns for completeness and consistency, using filters on key fields (Consultation Type, Call Status, Website, FreeCall, FreeChat)
 Validated that nulls were contextually correct (e.g., Call Status is blank for Chat sessions)
